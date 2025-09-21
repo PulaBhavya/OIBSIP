@@ -8,9 +8,9 @@ Table of Contents
 
 1. Projects
 
-* Voice Assistant
-* BMI Calculator
-* Random Password Generator
+   * Voice Assistant
+   * BMI Calculator
+   * Random Password Generator
 2. Technologies & Libraries
 3. Author
 4. Notes
