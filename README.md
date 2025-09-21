@@ -6,7 +6,7 @@ This repository contains three Python projects developed during my learning jour
 
 Table of Contents
 
-1. Projects
+1. Projects -
     Voice Assistant
     BMI Calculator
     Random Password Generator
