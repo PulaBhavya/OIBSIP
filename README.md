@@ -104,8 +104,6 @@ Author
 
 Name: Pula Bhavya
 
-Learning Platform: Oasis Infobyte
-
 ----
 
 Notes
