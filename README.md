@@ -1,6 +1,6 @@
-🚀Python Mini Projects- Oasis Infobyte
+🚀Python Mini Projects
 
-This repository contains three Python projects developed during my learning journey with Oasis Infobyte. These projects include beginner to advanced concepts and demonstrate practical Python skills.
+A collection of Python mini-projects including a BMI calculator, random password generator, and voice assistant. These projects include beginner to advanced concepts and demonstrate practical Python skills.
 
 ----
 
